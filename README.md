@@ -31,9 +31,3 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,html,css,js,react,vite,mysql,git,postman" />
 </p>
-
----
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alivetube&show_icons=true&locale=en&layout=compact" />
-</p>
